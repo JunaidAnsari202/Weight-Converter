@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    background-color: white;
+    width: 400px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.header{
+    background-color: blue;
+    border-radius: 8px 8px 0 0;
+    color: white;
+    font-size: ;
+}
